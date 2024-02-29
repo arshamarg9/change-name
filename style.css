@@ -16,3 +16,10 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.container {
+    background-color: antiquewhite;
+    width: 100%;
+    max-width: 540px;
+    height: 60vh;
+}

@@ -32,7 +32,9 @@ body {
     justify-content: center;
     margin-top: 70px;
     font-size: 50px;
-    text-shadow: 1px 1px blue;
+    /*text-shadow: 1px 1px blue;*/
+    text-shadow: 4px 4px 1px rgb(31, 177, 245);
+    color: rgb(252, 146, 163);
 }
 
 .inputName-box{
@@ -101,17 +103,16 @@ body {
 }
 
 .button-box .btn {
-    padding: 16px;
-    width: 170px;
+    padding: 17px;
+    width: 360px;
     border: none;
     outline: none;
     border-radius: 10px;
     font-weight: 500;
     font-size: 15px;
     cursor: pointer;
-    background: rgb(93,98,224);
-    background: linear-gradient(0deg, rgba(93,98,224,1) 0%, rgba(194,107,189,1) 100%);
-    box-shadow: 1px 1px 70px 10px rgb(245, 126, 162);
+    background: #fcabe3;
+    box-shadow: 1px 1px 30px 10px rgba(87, 240, 245, 0.425);
     color: rgb(0, 0, 0);
     text-shadow: 1px 1px rgba(118, 233, 241, 0.329);
 }

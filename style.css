@@ -54,7 +54,7 @@ body {
     border: none;
     border-radius: 20px;
     background: #49494948;
-    box-shadow: 1px 1px 30px 10px rgba(87, 240, 245, 0.425);
+    box-shadow: 1px 1px 30px 10px rgba(245, 136, 230, 0.719);
     font-size: 20px;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -70,7 +70,7 @@ body {
     margin-top: 50px;
     border-radius: 20px;
     background: #49494948;
-    box-shadow: 1px 1px 30px 10px rgba(87, 240, 245, 0.425);
+    box-shadow: 1px 1px 30px 10px rgba(245, 136, 230, 0.719);
     margin-left: 80px;
     text-align: center;
 }
@@ -80,7 +80,7 @@ body {
     height: 30px;
     border-radius: 20px;
     background: #49494948;
-    box-shadow: 1px 1px 30px 10px rgba(76, 42, 226, 0.575);
+    box-shadow: 1px 1px 30px 10px rgba(62, 226, 255, 0.267);
     border: none;
     outline: none;
     position: relative;

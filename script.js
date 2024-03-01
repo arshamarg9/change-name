@@ -6,4 +6,6 @@ const link = document.querySelector('.btn');
 link.addEventListener('click', () => {
     title.textContent = inputBox.value;
     title.style.color = colorBox.value;
+    inputBox.value = '';
+    colorBox.value = '';
 });
